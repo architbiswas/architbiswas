@@ -12,7 +12,7 @@ Hello, I'm Archit. Data Analyst with expertise in data analysis and reporting, q
 
 Language: SQL, Python  
 Database: Google BigQuery, PostgreSQL, MySQL  
-Visualization: Tableau, Looker Studio  
+Visualization: Power BI, Looker Studio  
 
 👋🏻 Connect with Me
 **LinkedIn:** [Archit Biswas](https://www.linkedin.com/in/architbiswas/)
