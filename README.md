@@ -1,5 +1,5 @@
 🙋🏻‍♀️ Introducing Myself
-<img width="1600" height="478" alt="Github" src="https://github.com/user-attachments/assets/671c2592-b012-46c7-b6af-ee9f5762781d" />
+<img width="1600" height="478" alt="Github" src="https://github.com/user-attachments/assets/1f6b7bcc-c885-452e-93ab-6362c63ec2ff" />
 
 Hello, I'm Archit. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
 
